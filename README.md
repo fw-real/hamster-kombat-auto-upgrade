@@ -24,9 +24,8 @@ You will need your bearer token for that, here are the steps for it:
 18. If successful inputs are passed, the asset will start upgrade as per your inputs.
 
 # Screenshot
-![ui](https://raw.githubusercontent.com/fw-real/hamster-kombat-auto-upgrade/main/screenshots/image.png)
-![ui2](https://raw.githubusercontent.com/fw-real/hamster-kombat-auto-upgrade/main/screenshots/ss2.png)
-![ui3](https://raw.githubusercontent.com/fw-real/hamster-kombat-auto-upgrade/main/screenshots/ss3.png)
+![ui](https://raw.githubusercontent.com/fw-real/hamster-kombat-auto-upgrade/main/screenshots/Screenshot%202024-06-09%20210306.png)
+![ui2](https://raw.githubusercontent.com/fw-real/hamster-kombat-auto-upgrade/main/screenshots/Screenshot%202024-06-09%20205949.png)
 
 
 # Issue/PR
