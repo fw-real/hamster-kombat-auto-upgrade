@@ -21,7 +21,7 @@ You will need your bearer token for that, here are the steps for it:
 15. If token was valid, you can now use the tool.
 16. Use the first option to fetch available upgrades for your account and see which one you want to spam upgrade. Note down the `ID` of the upgrade once you choose.
 17. Use the second option to spam upgrade, enter the id for the upgrade you got from the first option and press enter, then enter the amount of times you want to upgrade it. (Keep in mind that you should have the sufficient balance and have entered a valid upgrade id to successfully upgrade).
-18. If successfull inputs are passed, the asset will start upgrade as per your inputs.
+18. If successful inputs are passed, the asset will start upgrade as per your inputs.
 
 
 # Issue/PR
