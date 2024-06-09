@@ -23,6 +23,10 @@ You will need your bearer token for that, here are the steps for it:
 17. Use the second option to spam upgrade, enter the id for the upgrade you got from the first option and press enter, then enter the amount of times you want to upgrade it. (Keep in mind that you should have the sufficient balance and have entered a valid upgrade id to successfully upgrade).
 18. If successful inputs are passed, the asset will start upgrade as per your inputs.
 
+# Screenshot
+![ui](https://raw.githubusercontent.com/fw-real/hamster-kombat-auto-upgrade/main/screenshots/image.png)
+![ui2](https://raw.githubusercontent.com/fw-real/hamster-kombat-auto-upgrade/main/screenshots/ss2.png)
+
 
 # Issue/PR
 if you got a bug or suggestion or update or something, open an issue/pr respectively. or hit me up on discord at `@nostorian`.
